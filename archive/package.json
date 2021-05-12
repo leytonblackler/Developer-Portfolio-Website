@@ -7,7 +7,7 @@
     "@mdi/js": "^4.5.95",
     "@mdi/react": "^1.2.1",
     "framer-motion": "^1.6.17",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.11.0",
     "react-animated-burgers": "^1.2.7",
     "react-dom": "^16.11.0",
